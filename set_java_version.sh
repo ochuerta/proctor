@@ -7,4 +7,4 @@ which java
 java -version
 
 # Start a new shell session with these variables
-#exec "$SHELL"
+exec "$SHELL"
